@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1497543378 source:c:\users\leo\desktop\tp4\tp4\jugadores.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"jugadores.h"
+
+1497543387 c:\users\leo\desktop\tp4\tp4\jugadores.h
+
+1497543541 source:c:\users\leo\desktop\tp4\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"jugadores.h"
+	"ArrayList.h"
+
+1497543541 source:c:\users\leo\desktop\tp4\tp4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497543541 c:\users\leo\desktop\tp4\tp4\arraylist.h
+
+1497543578 c:\users\leo\desktop\tp4\tp4\parser.h
+	"ArrayList.h"
+
+1497645335 source:c:\users\leo\desktop\tp4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497543541 c:\users\leo\desktop\tp4\arraylist.h
+
+1497650232 source:c:\users\leo\desktop\tp4\jugadores.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"jugadores.h"
+	"ArrayList.h"
+
+1497651562 c:\users\leo\desktop\tp4\jugadores.h
+	"ArrayList.h"
+
+1497648882 source:c:\users\leo\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"jugadores.h"
+	"ArrayList.h"
+
+1497648368 c:\users\leo\desktop\tp4\parser.h
+	"ArrayList.h"
+
+1497648368 source:c:\users\leo\desktop\tp4\parser.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"jugadores.h"
+	"parser.h"
+	"ArrayList.h"
+

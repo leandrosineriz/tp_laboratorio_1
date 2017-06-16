@@ -1,0 +1,11 @@
+1,Sergio,Romero,30,GK
+3,Jonatan,Maidana,31,DF
+4,Gabriel,Mercado,28,DF
+2,Nicolas,Otamendi,29,DF
+8,Ever,Banega,28,MD
+5,Lucas,Biglia,31,MD
+6,Jose,Gomez,27,MD
+7,Angel,Di Maria,28,AT
+11,Paulo,Dybala,23,AT
+9,Gonzalo,Higuain,30,AT
+10,Lionel,Messi,29,AT

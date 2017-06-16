@@ -1,0 +1,13 @@
+12,Mariano,Andujar,30,GK
+13,Ramiro,Funes Mori,27,DF
+14,Ezequiel,Garay,28,DF
+15,Marcos,Rojo,29,DF
+16,Facundo,Roncaglia,31,DF
+18,Marcos,Acuna,24,DF
+19,Nicolas,Gaitan,29,AT
+17,Matias,Kranevitter,24,MD
+20,Enzo,Perez,28,MD
+21,Sergio,Aguero,29,AT
+22,Lucas,Alario,23,AT
+23,Angel,Correa,24,AT
+24,Lucas,Pratto,32,AT
